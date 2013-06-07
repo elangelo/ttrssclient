@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ttrssclient", "ttrssclient\ttrssclient.csproj", "{257CE677-CCF5-4692-B0F1-782B9F6E6A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ttrssdemo", "ttrssdemo\ttrssdemo.csproj", "{9F74AC01-47FF-4FC2-B5D8-487C2CC94555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257CE677-CCF5-4692-B0F1-782B9F6E6A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257CE677-CCF5-4692-B0F1-782B9F6E6A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257CE677-CCF5-4692-B0F1-782B9F6E6A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257CE677-CCF5-4692-B0F1-782B9F6E6A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F74AC01-47FF-4FC2-B5D8-487C2CC94555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F74AC01-47FF-4FC2-B5D8-487C2CC94555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F74AC01-47FF-4FC2-B5D8-487C2CC94555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F74AC01-47FF-4FC2-B5D8-487C2CC94555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
