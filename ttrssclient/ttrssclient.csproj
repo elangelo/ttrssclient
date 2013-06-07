@@ -44,6 +44,10 @@
     <Compile Include="dto\Feed.cs" />
     <Compile Include="dto\HeadLine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="requests\GetCategoriesRequest.cs" />
+    <Compile Include="requests\GetCountersRequest.cs" />
+    <Compile Include="requests\GetFeedsRequest.cs" />
+    <Compile Include="requests\GetHeadLinesRequest.cs" />
     <Compile Include="requests\GetUnreadRequest.cs" />
     <Compile Include="requests\LoginRequest.cs" />
     <Compile Include="requests\LogoutRequest.cs" />

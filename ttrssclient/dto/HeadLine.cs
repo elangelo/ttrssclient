@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ttrssclient
+﻿namespace ttrssclient.dto
 {
-    class HeadLine
+    public class HeadLine
     {
         public int id { get; set; }
         public bool unread { get; set; }

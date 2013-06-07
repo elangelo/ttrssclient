@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ttrssclient
+﻿namespace ttrssclient.dto
 {
-    class Feed
+    public class Feed
     {
         public string feed_url { get; set; }
         public string title { get; set; }
