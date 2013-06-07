@@ -44,6 +44,13 @@
     <Compile Include="dto\Feed.cs" />
     <Compile Include="dto\HeadLine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="requests\GetUnreadRequest.cs" />
+    <Compile Include="requests\LoginRequest.cs" />
+    <Compile Include="requests\LogoutRequest.cs" />
+    <Compile Include="responses\GetUnreadResponse.cs" />
+    <Compile Include="responses\LoginResponse.cs" />
+    <Compile Include="responses\LogoutResponse.cs" />
+    <Compile Include="responses\Response.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
